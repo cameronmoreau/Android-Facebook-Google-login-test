@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facebook-Google Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">337730199751946</string>
+    <string name="facebook_app_secret">fb25ef48934652d44b6c028688e8ec90</string>
+
+</resources>
